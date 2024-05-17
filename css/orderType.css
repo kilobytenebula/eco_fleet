@@ -1,0 +1,22 @@
+.body-content {
+    margin: 48px;
+    width: 84%;
+  }
+  
+.body-content .heading {
+    font-weight: 700;
+    color: #2d68fe;
+    font-size: 40px;
+}
+  
+.body-content .active {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.body-content .active .fuel-dd {
+    padding: 15px;
+    margin: 15px;
+    border: none;
+    border-radius: 30px;
+}

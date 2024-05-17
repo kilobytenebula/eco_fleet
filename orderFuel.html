@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/sidePanel.css">
+    <link rel="stylesheet" href="css/orderType.css">
+    <title>Ordering Fuel</title>
+</head>
+<body>
+
+<!-- side panel begining -->
+<div class="side-panel">
+    <div class="logo">
+        <img src="img/logo.png" alt="EcoFleet">
+    </div>
+    <div class="nav-item">
+        <div class="top-nav-items">
+            <div class="item home selected" id="home">
+                <img src="img/icons/aboutus-selected.svg" alt="H">
+                <a href="#">Home</a>
+            </div>
+            <div class="item my-order" id="my-order">
+                <img src="img/icons/myorder-default.svg" alt="O">
+                <a href="#">My Order</a> <!--X/My Orders-->
+            </div>
+            <div class="item my-inquiries" id="my-inquiries">
+                <img src="img/icons/inquiry-default.svg" alt="I">
+                <a href="#">My Inquiries</a>
+            </div>
+            <div class="item contact-us" id="contact-us">
+                <img src="img/icons/contactus-default.svg" alt="I">
+                <a href="#">Contact Us</a>
+            </div>
+            <div class="item about-us" id="about-us">
+                <img src="img/icons/aboutus-default.svg" alt="I">
+                <a href="#">About Us</a>
+            </div>
+        </div>
+        <div class="bottom-nav-items">
+            <div class="user" id="user">
+                Hi, User
+            </div>
+            <div class="item sign-out" id="sign-out">
+                <img src="img/icons/signout-default.svg" alt="I">
+                <a href="#">Log Out</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- side panel end -->
+
+
+    <div class="body-content">
+            <div class="heading">Tell us more about your order</div>
+            <div class="active">
+                <form action="#" method="POST">
+                    <div id="fuel-dd">
+                        <label>Select fuel type: </label>
+                        <select>
+                            <option value="92o">92 Octane</option>
+                            <option value="92op">92 Octane Plus</option>
+                            <option value="e85">E85</option>
+                            <option value="diesel">Diesel</option>
+                        </select>
+                    </div>
+                    <div class="qty"><label>Quantity: </label><input type="number" id="qty" name="quantity" min="1" max="50"> L</div>
+                    <div class="date-time"><label>Select an appoinment date: </label></div>
+                    
+                </form>
+            </div>
+    </div>
+
+</body>
+</html>

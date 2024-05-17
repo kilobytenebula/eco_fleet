@@ -1,0 +1,225 @@
+.login-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login-page .div {
+  background-color: #fcfcfc;
+  overflow: hidden;
+  width: 1488px;
+  height: 708px;
+  position: relative;
+}
+
+.login-page input {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: #656ed3;
+}
+
+.login-page .overlap {
+  position: absolute;
+  width: 661px;
+  height: 720px;
+  top: 0;
+  left: 566px;
+}
+
+.login-page .rectangle {
+  position: absolute;
+  width: 438px;
+  height: 720px;
+  top: 0;
+  left: 511px;
+  background: linear-gradient(180deg, rgb(0, 75.2, 184.01) 0%, rgba(30.11, 110, 205.26, 0.62) 99.99%);
+}
+
+.login-page .gas-station {
+  position: absolute;
+  width: 485px;
+  height: 514px;
+  top: 130px;
+  left: 288px;
+  object-fit: cover;
+}
+
+.login-page .overlap-group {
+  position: absolute;
+  width: 610px;
+  height: 499px;
+  top: 520px;
+  left: -287px;
+}
+
+.login-page .social-media-icons {
+  position: absolute;
+  width: 83px;
+  height: 24px;
+  top: 7px;
+  left: 830px;
+}
+
+.login-page .overlap-2 {
+  position: absolute;
+  width: 543px;
+  height: 499px;
+  top: 0;
+  left: 0;
+}
+
+.login-page .rectangle-2 {
+  position: absolute;
+  width: 597px;
+  height: 141px;
+  top: 179px;
+  left: -27px;
+  background-color: #004bb8;
+  border-radius: 105.53px;
+  transform: rotate(-41.1deg);
+}
+
+.login-page .rectangle-3 {
+  position: absolute;
+  width: 554px;
+  height: 131px;
+  top: 177px;
+  left: 10px;
+  background-color: #3172ca;
+  border-radius: 105.53px;
+  transform: rotate(-41.1deg);
+}
+
+.login-page .rectangle-4 {
+  position: absolute;
+  width: 369px;
+  height: 36px;
+  top: 249px;
+  left: 410px;
+  background-color: #ffffff;
+}
+
+.login-page .rectangle-5 {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 326px;
+  left: 410px;
+}
+
+.login-page .text-wrapper {
+  position: absolute;
+  top: 219px;
+  left: 410px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-page .dont-have-and {
+  position: absolute;
+  top: 489px;
+  left: 469px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-page .span {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.login-page .text-wrapper-2 {
+  font-weight: 500;
+}
+
+.login-page .text-wrapper-3 {
+  position: absolute;
+  top: 176px;
+  left: 511px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #191919;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-page .group {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 402px;
+  left: 410px;
+}
+
+.login-page .div-wrapper {
+  position: relative;
+  width: 365px;
+  height: 34px;
+  background-color: #004bb8;
+  border-radius: 50px;
+}
+
+.login-page .text-wrapper-4 {
+  position: absolute;
+  top: 7px;
+  left: 148px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-page .text-wrapper-5 {
+  position: absolute;
+  top: 295px;
+  left: 410px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-page .custom-button {
+  position: relative;
+  width: 365px;
+  height: 34px;
+  background-color: #004bb8;
+  border: none;
+  border-radius: 50px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+a:visited { 
+  text-decoration: none;
+  color: #004bb8;
+ }

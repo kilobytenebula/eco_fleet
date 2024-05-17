@@ -1,0 +1,275 @@
+.register-page {
+  background-color: #fcfcfc;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.register-page .div {
+  background-color: #fcfcfc;
+  overflow: hidden;
+  width: 1488px;
+  height: 708px;
+  position: relative;
+}
+
+.register-page input {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: #656ed3;
+}
+
+.register-page .rectangle {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 240px;
+  left: 820px;
+}
+
+.register-page .rectangle-2 {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 164px;
+  left: 820px;
+}
+
+.register-page .rectangle-10 {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 86px;
+  left: 820px;
+}
+
+.register-page .rectangle-3 {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 396px;
+  left: 820px;
+}
+
+.register-page .rectangle-4 {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 320px;
+  left: 820px;
+}
+
+.register-page .rectangle-5 {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 472px;
+  left: 820px;
+}
+
+.register-page .text-wrapper {
+  position: absolute;
+  top: 209px;
+  left: 820px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.register-page .text-wrapper-2 {
+  position: absolute;
+  top: 133px;
+  left: 820px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.register-page .text-wrapper-8 {
+  position: absolute;
+  top: 55px;
+  left: 820px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.register-page .yes-i-have-an {
+  position: absolute;
+  top: 600px;
+  left: 902px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.register-page .span {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.register-page .text-wrapper-3 {
+  font-weight: 500;
+}
+
+.register-page .group {
+  position: absolute;
+  width: 367px;
+  height: 34px;
+  top: 550px;
+  left: 820px;
+}
+
+.register-page .text-wrapper-5 {
+  position: absolute;
+  top: 365px;
+  left: 820px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.register-page .text-wrapper-6 {
+  position: absolute;
+  top: 289px;
+  left: 820px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.register-page .text-wrapper-7 {
+  position: absolute;
+  top: 441px;
+  left: 820px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.register-page .social-media-icons {
+  position: absolute;
+  width: 83px;
+  height: 24px;
+  top: 640px;
+  left: 974px;
+}
+
+.register-page .conf-msg {
+  position: absolute;
+  width:fit-content;
+  height: 24px;
+  top: 520px;
+  left: 950px;
+  font-family: "Inter", Helvetica;
+  font-size: 10px;
+  color: #004bb8;
+}
+
+
+.register-page .p {
+  position: absolute;
+  top: 28px;
+  left: 882px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #191919;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.register-page .background {
+  position: absolute;
+  width: 593px;
+  height: 713px;
+  top: -167px;
+  left: -39px;
+}
+
+.register-page .rectangle-6 {
+  position: absolute;
+  width: 635px;
+  height: 377px;
+  top: 150px;
+  left: 10px;
+  background-color: #004bb8;
+  border-radius: 105.53px;
+  transform: rotate(-97.17deg);
+}
+
+.register-page .rectangle-7 {
+  position: absolute;
+  width: 635px;
+  height: 377px;
+  top: 197px;
+  left: 36px;
+  background-color: #679cdd;
+  border-radius: 105.53px;
+  transform: rotate(-90deg);
+}
+
+.register-page .istockphoto {
+  position: absolute;
+  width: 461px;
+  height: 500px;
+  top: 213px;
+  left: 0;
+  object-fit: cover;
+}
+
+.register-page .custom-button {
+  position: relative;
+  width: 365px;
+  height: 34px;
+  background-color: #004bb8;
+  border: none;
+  border-radius: 50px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+a:visited { 
+  text-decoration: none;
+  color: #004bb8;
+ }
+

@@ -1,0 +1,10 @@
+:root {
+    --primary-blue: rgba(45, 104, 254, 1);
+    --selected-blue: rgba(239, 246, 255, 1);
+    --primary-gray: rgb(130, 129, 129);
+    --hover-gray:rgb(46, 63, 124);
+    --banner-red: rgba(255, 71, 46, 1);
+    --white: rgba(255, 255, 255, 1);
+    --selected-gray: rgb(239, 239, 239);
+  }
+  
